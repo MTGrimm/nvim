@@ -47,5 +47,7 @@ return require('packer').startup(function(use)
     use('windwp/nvim-ts-autotag')
 
     use('m4xshen/autoclose.nvim')
+
+    use('goolord/alpha-nvim')
 end)
 
