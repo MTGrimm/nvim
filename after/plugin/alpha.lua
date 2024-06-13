@@ -1,3 +1,5 @@
+vim.keymap.set("n", "<leader>pv", '<cmd>:NvimTreeToggle<CR>')
+
 local alpha = require("alpha")
 local dashboard = require("alpha.themes.dashboard")
 
