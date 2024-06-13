@@ -49,5 +49,8 @@ return require('packer').startup(function(use)
     use('m4xshen/autoclose.nvim')
 
     use('goolord/alpha-nvim')
+
+    use('nvim-tree/nvim-tree.lua')
+    use('nvim-tree/nvim-web-devicons')
 end)
 
